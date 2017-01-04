@@ -8,3 +8,13 @@
 
 **Link(s) to work**
 Show Local Weather(http://codepen.io/Kimkykie/full/ZBqGMd);
+
+### Day 1: Jan 4, Wednesday
+
+**Today's Progress**: Played around wit Jquery UI learning from the official website.
+
+**Thoughts** I hope by the end of tomorrow I will do a Jquery Ui based project.
+
+**Link(s) to work**
+JqueryUi practice(http://codepen.io/Kimkykie/full/GrgpVX/);
+
