@@ -27,3 +27,25 @@ JqueryUi practice(http://codepen.io/Kimkykie/full/GrgpVX/);
 **Link(s) to work**
 Friendly Date Ranges(https://www.freecodecamp.com/challenges/friendly-date-ranges/);
 
+### Day 4: Jan 6, Friday 
+
+**Today's Progress**: Today I read You Don't Know JS : Scopes and Closures. Learnt a lot about Lexical Scoping, IIFEs and Function and Block Scopes. 
+
+**Thoughts** You Don't Know JS is a really good series an every JS developer should at least go through it.
+
+**Link(s) to work**
+You Don't Know JS: Scope and Closures(https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/README.md);
+
+### Day 5: Jan 7, Saturday 
+
+**Today's Progress**: Did some practice on Javascript  Events using vanilla Javascript and I did this flag events exercise to see if i got a good grip. 
+
+**Thoughts** I'm hopeful that with time I will be able to do most things(events) with Vanilla Javascript.
+
+**Link(s) to work**
+Friendly Date Ranges(http://codepen.io/Kimkykie/pen/BpNPJm);
+
+
+
+
+
