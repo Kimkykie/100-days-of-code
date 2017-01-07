@@ -43,7 +43,7 @@ You Don't Know JS: Scope and Closures(https://github.com/getify/You-Dont-Know-JS
 **Thoughts** I'm hopeful that with time I will be able to do most things(events) with Vanilla Javascript.
 
 **Link(s) to work**
-Friendly Date Ranges(http://codepen.io/Kimkykie/pen/BpNPJm);
+Flag Events(http://codepen.io/Kimkykie/pen/BpNPJm);
 
 
 
