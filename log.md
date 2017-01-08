@@ -38,12 +38,21 @@ You Don't Know JS: Scope and Closures(https://github.com/getify/You-Dont-Know-JS
 
 ### Day 5: Jan 7, Saturday 
 
-**Today's Progress**: Did some practice on Javascript  Events using vanilla Javascript and I did this flag events exercise to see if i got a good grip. 
+**Today's Progress**: Did some practice on Javascript  Events using vanilla Javascript and I did this flag events exercise to see if I got a good grip on events. 
 
 **Thoughts** I'm hopeful that with time I will be able to do most things(events) with Vanilla Javascript.
 
 **Link(s) to work**
 Flag Events(http://codepen.io/Kimkykie/pen/BpNPJm);
+
+### Day 6: Jan 8, Sunday 
+
+**Today's Progress**: Did a Student Form Validation Exercise I saw suggested on Quora. I implemented the logic well but the design was kind of basic.
+
+**Thoughts** I need to work on my form styling.
+
+**Link(s) to work**
+Student Form Validation(http://codepen.io/Kimkykie/full/oBjXWa/);
 
 
 
