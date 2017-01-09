@@ -54,6 +54,16 @@ Flag Events(http://codepen.io/Kimkykie/pen/BpNPJm);
 **Link(s) to work**
 Student Form Validation(http://codepen.io/Kimkykie/full/oBjXWa/);
 
+### Day 7: Jan 9, Monday
+
+**Today's Progress**: Today I decided to see if my Javascript date 'skills' were good so i did a Digital clock project.
+
+**Thoughts** I think I can now say I am comfortable with Javascript Dates .
+
+**Link(s) to work**
+Digital Clock(http://codepen.io/Kimkykie/full/wgKxGg/);
+
+
 
 
 
