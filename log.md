@@ -63,6 +63,15 @@ Student Form Validation(http://codepen.io/Kimkykie/full/oBjXWa/);
 **Link(s) to work**
 Digital Clock(http://codepen.io/Kimkykie/full/wgKxGg/);
 
+### Day 8: Jan 10, Tuesday
+
+**Today's Progress**: Created my first Vue.js app, A simple To Do List app. 
+
+**Thoughts** All I can say is I am loving Vue.js so far. I had no trouble understanding the concepts
+
+**Link(s) to work**
+Simple To Do List App(http://codepen.io/Kimkykie/full/wgMqjE/);
+
 
 
 
