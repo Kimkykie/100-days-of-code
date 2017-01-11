@@ -72,6 +72,15 @@ Digital Clock(http://codepen.io/Kimkykie/full/wgKxGg/);
 **Link(s) to work**
 Simple To Do List App(http://codepen.io/Kimkykie/full/wgMqjE/);
 
+### Day 9: Jan 11, Wednesday
+
+**Today's Progress**: Started the Pomodoro Timer project at Free Code Camp with Vue.js. I decided to start with this project since the book I'm using to learn Vue has an exercise on the Pomodoro Timer.
+
+**Thoughts** Vue.js is a really smooth framework, I am understanding the concepts pretty well.
+
+**Link(s) to work**
+Pomodoro Timer(http://codepen.io/Kimkykie/full/ggrPGx/);
+
 
 
 
