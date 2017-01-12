@@ -81,6 +81,17 @@ Simple To Do List App(http://codepen.io/Kimkykie/full/wgMqjE/);
 **Link(s) to work**
 Pomodoro Timer(http://codepen.io/Kimkykie/full/ggrPGx/);
 
+### Day 10: Jan 12, Thursday
+
+**Today's Progress**: Finished the Pomodoro Timer Challenge. Added Start, Pause and Stop functionalities. User can also change the working and rest sessions.
+
+**Thoughts** I'm planning to do all the other Advanced Challenges at FCC with Vue.js.
+
+**Link(s) to work**
+Pomodoro Timer(http://codepen.io/Kimkykie/full/ggrPGx/);
+
+
+
 
 
 
