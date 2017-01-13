@@ -90,6 +90,15 @@ Pomodoro Timer(http://codepen.io/Kimkykie/full/ggrPGx/);
 **Link(s) to work**
 Pomodoro Timer(http://codepen.io/Kimkykie/full/ggrPGx/);
 
+### Day 11: Jan 13, Friday
+
+**Today's Progress**: Started the Daily CSS challenge and created a teddy bear/cub. 
+
+**Thoughts** All I can say is I'm laughing at myself because of the 'cub' I created. I hope to create better images with time.
+
+**Link(s) to work**
+Cub Image(http://codepen.io/Kimkykie/full/pRbaJG/);
+
 
 
 
