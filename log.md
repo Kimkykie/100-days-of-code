@@ -99,6 +99,15 @@ Pomodoro Timer(http://codepen.io/Kimkykie/full/ggrPGx/);
 **Link(s) to work**
 Cub Image(http://codepen.io/Kimkykie/full/pRbaJG/);
 
+### Day 12: Jan 16, Monday
+
+**Today's Progress**: Continued with my Vue Js practice and redid my Digital Clock in Vue.js
+
+**Thoughts** I took a little break and I feel recharged. Here we go Vue.
+
+**Link(s) to work**
+Digital Clock(Vue)(http://codepen.io/Kimkykie/full/qRaedM/);
+
 
 
 
