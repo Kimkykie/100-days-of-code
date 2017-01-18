@@ -108,6 +108,15 @@ Cub Image(http://codepen.io/Kimkykie/full/pRbaJG/);
 **Link(s) to work**
 Digital Clock(Vue)(http://codepen.io/Kimkykie/full/qRaedM/);
 
+### Day 13: Jan 18, Wednesday
+
+**Today's Progress**: Did a reaction test game to determine time taken to click on a shape in Vue.
+
+**Thoughts** Feels like I used quite some Jquery with Vue but I plan on using less Jquery with my Vue code.
+
+**Link(s) to work**
+Reaction Tester(Vue)(http://codepen.io/Kimkykie/full/dNNvvg/);
+
 
 
 
