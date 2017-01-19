@@ -117,7 +117,7 @@ Digital Clock(Vue)(http://codepen.io/Kimkykie/full/qRaedM/);
 **Link(s) to work**
 Reaction Tester(Vue)(http://codepen.io/Kimkykie/full/dNNvvg/);
 
-### Day 14: Jan 18, Thursday
+### Day 14: Jan 19, Thursday
 
 **Today's Progress**: Started the Free Code Camp JS Calculator challenge, done with Jquery with help from Coding 360 Youtube Channel.
 
