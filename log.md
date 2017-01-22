@@ -126,7 +126,14 @@ Reaction Tester(Vue)(http://codepen.io/Kimkykie/full/dNNvvg/);
 **Link(s) to work**
 Javascript Calculator(Jquery)(http://codepen.io/Kimkykie/full/oBZbaa/);
 
+### Day 15: Jan 22, Sunday
 
+**Today's Progress**: I decided to go back and get familiar with Python, did some Control Statements practice.
+
+**Thoughts** I hope I will keep up with Python and not lose track like last time.
+
+**Link(s) to work**
+Control Statements(Python)(https://github.com/Kimkykie/Python-Practice/blob/master/Control%20Statements.ipynb);
 
 
 
