@@ -135,6 +135,25 @@ Javascript Calculator(Jquery)(http://codepen.io/Kimkykie/full/oBZbaa/);
 **Link(s) to work**
 Control Statements(Python)(https://github.com/Kimkykie/Python-Practice/blob/master/Control%20Statements.ipynb);
 
+### Day 16: Jan 23, Monday
+
+**Today's Progress**: Tried out the d3.js challenges at Free Code Camp beta.
+
+**Thoughts** D3 seems like a useful Javascript library to have up ones sleeves.
+
+**Link(s) to work**
+D3 challenges(http://beta.freecodecamp.com/en/challenges/data-visualization-with-d3/create-a-bar-for-each-data-point-in-the-set);
+
+### Day 17: Jan 24, Tuesday
+
+**Today's Progress**: Learning SASS at Codeacademy and loving it.
+
+**Thoughts** Where was SASS my whole life?.
+
+**Link(s) to work**
+Learn SASS(https://www.codecademy.com/learn/learn-sass);
+
+
 
 
 
