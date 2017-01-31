@@ -153,6 +153,14 @@ D3 challenges(http://beta.freecodecamp.com/en/challenges/data-visualization-with
 **Link(s) to work**
 Learn SASS(https://www.codecademy.com/learn/learn-sass);
 
+### Day 18: Jan 31, Tuesday
+
+**Today's Progress**: Created a simple web app with Vue.js to simulate a book shop.
+
+**Thoughts** Vue.j really has a lot of capabilities
+
+**Link(s) to work**
+Web Shop(codepen.io/Kimkykie/full/mRXPJO/);
 
 
 
