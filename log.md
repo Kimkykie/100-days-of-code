@@ -157,10 +157,21 @@ Learn SASS(https://www.codecademy.com/learn/learn-sass);
 
 **Today's Progress**: Created a simple web app with Vue.js to simulate a book shop.
 
-**Thoughts** Vue.j really has a lot of capabilities
+**Thoughts** Vue.js really has a lot of capabilities
 
 **Link(s) to work**
 Web Shop(codepen.io/Kimkykie/full/mRXPJO/);
+
+### Day 19: Feb 5, Sunday
+
+**Today's Progress**: Created a Navigation bar with Flexbox and added a little bit of Vuejs
+
+**Thoughts** Flexbox is amazing
+
+**Link(s) to work**
+Navflex(http://codepen.io/Kimkykie/full/BpVxbX/);
+
+
 
 
 
